@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-issy",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Issy-les-Moulineaux Open Data (data.issy.com) — OpenDataSoft MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-c8227a1178ead18c64a711759faf32dbe5384839183f07dd81ec4f42775b4b9b",
-    "sourceCommit": "839ab210d969ef7f822cd747ea516f6bb49e9231"
+    "sourceHash": "v1-1ed854a54821eb975142643870404554b1e950e7d4b71d9350d8eea4bb36d70c",
+    "sourceCommit": "56d3c46c09bb3078ffdbdbca992a93f406bcd382"
   }
 }
